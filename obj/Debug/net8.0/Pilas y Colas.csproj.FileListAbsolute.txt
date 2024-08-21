@@ -1,0 +1,14 @@
+C:\Users\Lucas\Desktop\C#\Pilas y Colas\bin\Debug\net8.0\Pilas y Colas.exe
+C:\Users\Lucas\Desktop\C#\Pilas y Colas\bin\Debug\net8.0\Pilas y Colas.deps.json
+C:\Users\Lucas\Desktop\C#\Pilas y Colas\bin\Debug\net8.0\Pilas y Colas.runtimeconfig.json
+C:\Users\Lucas\Desktop\C#\Pilas y Colas\bin\Debug\net8.0\Pilas y Colas.dll
+C:\Users\Lucas\Desktop\C#\Pilas y Colas\bin\Debug\net8.0\Pilas y Colas.pdb
+C:\Users\Lucas\Desktop\C#\Pilas y Colas\obj\Debug\net8.0\Pilas y Colas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Desktop\C#\Pilas y Colas\obj\Debug\net8.0\Pilas y Colas.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\C#\Pilas y Colas\obj\Debug\net8.0\Pilas y Colas.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\C#\Pilas y Colas\obj\Debug\net8.0\Pilas y Colas.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\C#\Pilas y Colas\obj\Debug\net8.0\Pilas y Colas.dll
+C:\Users\Lucas\Desktop\C#\Pilas y Colas\obj\Debug\net8.0\refint\Pilas y Colas.dll
+C:\Users\Lucas\Desktop\C#\Pilas y Colas\obj\Debug\net8.0\Pilas y Colas.pdb
+C:\Users\Lucas\Desktop\C#\Pilas y Colas\obj\Debug\net8.0\Pilas y Colas.genruntimeconfig.cache
+C:\Users\Lucas\Desktop\C#\Pilas y Colas\obj\Debug\net8.0\ref\Pilas y Colas.dll
