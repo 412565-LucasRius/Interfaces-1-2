@@ -1,4 +1,6 @@
-﻿Pila pila = new Pila(5);
+using Pilas_y_Colas.Domain;
+
+Pila pila = new Pila(5);
 
 pila.Añadir(1);
 pila.Añadir(2);
